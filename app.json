@@ -105,7 +105,7 @@
     "ANTI_CALL": {
       "description": "true this to reject calls automatically .",
       "required": false,
-      "value": "fals"
+      "value": "false"
     }, 
 
     "ANTI_LINK": {
