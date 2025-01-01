@@ -556,8 +556,12 @@ console.log("Session downloaded ✅")
             }
         }
     }
-});      
+}); 
     
+//=====Auto-Read-Cmd==========
+if (isCmd && config.READ_CMD === "true") {
+              await conn.readMessages([mek.key])  // Mark command as read
+}    
   //================ownerreact==============
   
   if(senderNumber.includes("923146190772")){
