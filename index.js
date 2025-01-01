@@ -36,7 +36,6 @@ const {
   const { File } = require('megajs')
   const { fromBuffer } = require('file-type')
   const bodyparser = require('body-parser')
-  const recentCallers = new Set();
   const os = require('os')
   const Crypto = require('crypto')
   const path = require('path')
@@ -523,41 +522,7 @@ console.log("Session downloaded ✅")
   * @param {*} quoted
   * @param {*} options
   */
-  //--------------ANTI-CALL JawadYTX
-
-      if (config.ANTI_CALL === 'true') {
-        for (const id of json) {
-            try {
-                if (id.status === "offer") {
-                    // Check if the caller is already in the recent callers list
-                    if (!recentCallers.has(id.id)) {
-                        // Add the caller to the recent callers list
-                        recentCallers.add(id.id);
-
-                        // Reject the call
-                        await conn.rejectCall(id.id, id.from);
-
-                        // Notify the caller if it's not a group call
-                        if (!id.isGroup) {
-                            await conn.sendMessage(id.from, {
-                                text: `*Call rejected automatically because the owner is busy ⚠*`,
-                                mentions: [id.from]
-                            });
-                        }
-
-                        // Remove the caller from the list after a delay (e.g., 1 minute)
-                        setTimeout(() => {
-                            recentCallers.delete(id.id);
-                        }, 60000); // 60 seconds
-                    }
-                }
-            } catch (error) {
-                console.error(`Failed to reject or notify for call: ${error.message}`);
-            }
-        }
-    }
-}); 
-    
+  
 //=====Auto-Read-Cmd==========
 if (isCmd && config.READ_CMD === "true") {
               await conn.readMessages([mek.key])  // Mark command as read
