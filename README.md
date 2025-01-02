@@ -21,25 +21,25 @@
 ***
 
 <p align="center">
-  <a href="https://github.com/JawadYTX"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/JawadYTX"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-6D0f0f.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-0078D4?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-3F55FF?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="JawadYTX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{JawadYTX}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/JawadYTX/KHAN-AI"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+<a href="https://github.com/JawadYTX/KHAN-AI"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=KHAN-AI&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/JawadYTX/KHAN-AI"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/JawadYTX/KHAN-AI"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -58,14 +58,14 @@ You will need a session ID to run the KHAN-AI. Click the button below to obtain 
 > **Get Pair Code (Session ID)**
 
 <a href='https://khan-ai-pairing.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **Get Pair Code (Session ID)**
 
 <a href='https://khan-ai-pairingx.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF00FF?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-pink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
