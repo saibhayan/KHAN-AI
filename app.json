@@ -102,12 +102,6 @@
 
       }, 
 
-    "ANTI_CALL": {
-      "description": "true this to reject calls automatically .",
-      "required": false,
-      "value": "false"
-    }, 
-
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
