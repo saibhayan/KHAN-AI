@@ -21,12 +21,12 @@
 ***
 
 <p align="center">
-  <a href="https://github.com/JawadYTX"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-6D0f0f.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/JawadYTX"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-397604.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-3F55FF?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="JawadYTX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{JawadYTX}/count.svg" /></p>
@@ -65,7 +65,7 @@ You will need a session ID to run the KHAN-AI. Click the button below to obtain 
 > **Get Pair Code (Session ID)**
 
 <a href='https://khan-ai-pairingx.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-pink?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
@@ -80,77 +80,28 @@ You will need a session ID to run the KHAN-AI. Click the button below to obtain 
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/JawadYTX/KHAN-AI/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-brown?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/JawadYTX/KHAN-AI/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
-<h4 align="center">2. Koyeb</h4>
+<h4 align="center">2. TaikDrove Free</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=JawadYTX/KHAN-AI&ports=3000;&builder=dockerfile' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://talkdrove.com/share-bot/82' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TaikDrove ‎Deploy-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
 
-* Enter Manually Variable
-
-<details close>
-<summary>Click to Environment Variables:</summary>
- 
-<br><br>
-
-```
-SESSION_ID
-```
-```
-PREFIX
-```
-```
-ALIVE_MSG
-```
-```
-ALIVE_IMG
-```
-```
-AUTO_READ_STATUS
-```
-```
-AUTO_REACT
-```
-```
-READ_MESSAGE
-```
-```
-MODE
-```
-```
-ANTI_LINK
-```
-```
-HEART_REACT
-```
-```
-FAKE_RECORDING
-```
-```
-OWNER_REACT
-```
-```
-ANTI_BAD
-```
-```
-ANTI_BAD_WORDS
-```
-</details>
+* Create TaikDrove <a href="https://talkdrove.com/auth/signup?ref=5E95F1DA">Click Here</a>
 
 <h4 align="center">3. Koyeb</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 
 <p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=JawadYTX/KHAN-AI&ports=3000&env[SESSION_ID]&env[PREFIX]=.&env[AUTO_READ_STATUS]=true&env[AUTO_REACT]=true&env[OWNER_REACT]=true&env[HEART_REACT]=true&env[ANTI_LINK]=true&env[ANTI_BAD_WORDS]=xxx&env[FAKE_RECORDING]=false&env[READ_MESSAGE]=true&env[LIVE_MSG]=I%20AM%20ALIVE%20KHAN-AI%F0%9F%A4%98&env[OWNER_NUMBER]=92**********&env[OWNER_NAME]=JAWADYT&env[ALIVE_IMG]=https://files.catbox.moe/x3bdmi.jpg;&builder=dockerfile' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-pink?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=JawadYTX/KHAN-AI&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20KHAN-AI&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 
 <h4 align="center">4. Railway</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="center">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-red?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
 
 <h4 align="center">5. Render</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -162,13 +113,13 @@ ANTI_BAD_WORDS
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-blue?style=for-the-badge&logo=netlify&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=netlify&logoColor=white'/< width=150 height=28/p></a> </a>
 
 <h4 align="center">7. Replit</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
  
  <h4 align="center">8. Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -176,8 +127,8 @@ ANTI_BAD_WORDS
 
 <details>
 
-<b><strong><summary align="center">Deploy On Workflow</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;"></p>
+<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
  
 <h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes name them deploy and save the file</h8>
 <h3 align-"center"> Important</h3>
